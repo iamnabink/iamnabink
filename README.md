@@ -1,12 +1,14 @@
 📡📡 Readme : Under Constrution 📡📡
 
 - 👋 Hi, I’m @iamnabink
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 Mobile Application Developer [Native & Flutter]
+- 🌱 Intrested: Android/IOS/React/Python/Design Patterns/Blockchain
+- 📫 Reach me [Email](nabrajkhadka43@gmail.com) | [Linkedin](https://www.linkedin.com/in/iamnabink/) | [Stackoverflow](https://stackoverflow.com/users/12030116/iamnabink)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=iamnabink)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamnabink)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 iamnabink/iamnabink is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
