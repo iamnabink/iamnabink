@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @iamnabink
 - 👀 Mobile Application Developer [Native & Flutter]
-- 🌱 Intrested: Android/IOS/React/Python/Design Patterns/Blockchain
+- 🌱 Intrested: Flutter/Swift/ReactNative/Design Patterns/Blockchain
 - 📫 Find me [Email](nabrajkhadka43@gmail.com) | [Linkedin](https://www.linkedin.com/in/iamnabink/) | [Stackoverflow](https://stackoverflow.com/users/12030116/iamnabink)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=iamnabink)](https://github.com/ryo-ma/github-profile-trophy)
