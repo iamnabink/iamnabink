@@ -1,7 +1,7 @@
 📡📡 Readme : Under Constrution 📡📡
 
 - 👋 Hi, I’m @iamnabink
-- 👀 Mobile Application Developer || iOS || Android || ReactNative || Flutter || SwiftUI || Javascript
+- 🧑‍💻 Senior Mobile App Developer | Flutter Expert | SwiftUI | React-Native
 - 📫 Find me [Email](nabrajkhadka43@gmail.com) | [Linkedin](https://www.linkedin.com/in/iamnabink/) | [Stackoverflow](https://stackoverflow.com/users/12030116/iamnabink)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=iamnabink)](https://github.com/ryo-ma/github-profile-trophy)
